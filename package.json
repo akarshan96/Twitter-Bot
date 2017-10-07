@@ -1,0 +1,20 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "npm first program",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "Akarshan",
+  "license": "ISC",
+  "dependencies": {
+    "mangodb": "^1.0.0",
+    "mongodb": "^2.2.31",
+    "twit": "^2.2.9"
+  }
+}
